@@ -1,0 +1,6 @@
+allure-python-commons~=2.13.5
+Faker~=37.1.0
+selenium~=4.30.0
+pytest~=8.2.2
+requests~=2.25.1
+webdriver-manager~=4.0.2
